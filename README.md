@@ -3,14 +3,14 @@
 Flutter project of Udemy Course by Daniel Ciolfi.
 First application in the course.
 
-##Objective:
+## Objective:
 - Introduction the programing with Dart language and Flutter Framework
 - MaterialApp Concept and introduction the State 
 - Variables and State using SetState
 - Widget and structures
 
 
-##Getting Start
+## Getting Start
   For this project, is necessary install flutter in path and flutter 
   extensions in your IDE(Android Studio) or Editor (Visual Studio Code).
   
