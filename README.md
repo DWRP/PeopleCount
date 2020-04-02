@@ -9,6 +9,9 @@ First application in the course.
 - Variables and State using SetState
 - Widget and structures
 
+## Resume
+  Leaning about flutter and your structure. This application is a simulation
+  to count total peoples in a place
 
 ## Getting Start
   For this project, is necessary install flutter in path and flutter 
